@@ -9,7 +9,7 @@ body{
     background-color: #1b1b1b;
     background-size: unset;
     background-repeat: repeat;
-    height: 100vh;
+    height: 94vh;
 }
 
 nav{
@@ -29,7 +29,7 @@ nav{
     border-radius: 100%;
     width: 5%;
     height: 5%;
-    height: 100%;
+    height: auto;
     margin: auto 0px;
     margin-left: 10px;
 }
