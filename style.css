@@ -414,8 +414,14 @@ footer{
     .dpimg{
         height: 8%;
         width: 8%;
+        cursor: pointer;
+        border-radius: 100%;
+        height: auto;
+        margin: auto 0px;
+        margin-left: 10px;
+        padding-top: 1vh;
     }
     .body{
-        height: 90vh;
+        height: 88vh;
     }
   }
