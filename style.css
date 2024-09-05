@@ -405,3 +405,17 @@ footer{
         height: auto;
     }
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .nav{
+        height: 6%;
+    }
+    .dpimg{
+        height: 8%;
+        width: 8%;
+    }
+    .body{
+        height: 90vh;
+    }
+  }
