@@ -20,7 +20,6 @@ nav{
 
 .navbar{
     width: 100%;
-    height: 100%;
     display: flex;
 }
 
@@ -28,8 +27,8 @@ nav{
 .dpimg{
     cursor: pointer;
     border-radius: 100%;
-    width: 10%;
-    height: 10%;
+    width: 8%;
+    height: 8%;
     height: auto;
     margin: auto 0px;
     margin-left: 10px;
